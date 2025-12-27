@@ -3374,5 +3374,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lgjtxUU2NGoshja9Fn0I40442p2.jpg",
     "released": "2025-01-01",
     "imdbRating": "10.0"
+  },
+  {
+    "id": "gdrive:102ccS-KXMnA9_naOJqE3MShhvVTmiJW8",
+    "type": "movie",
+    "name": "Ek Deewane Ki Deewaniyat",
+    "poster": "https://image.tmdb.org/t/p/w500/g3R6Jugx1qetUnuoIbyKav4npZd.jpg",
+    "description": "When Vikramaditya, a powerful politician falls  for a strong-willed superstar Adaa , their passionate romance quickly spirals into a dangerous game of obsession and pride. As emotions clash and tempers rise, Adaa makes a life-altering choice.",
+    "background": "https://image.tmdb.org/t/p/w1280/jwWLS6N6hePsR9UrL67MQN9MGwY.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "8.7"
   }
 ]
