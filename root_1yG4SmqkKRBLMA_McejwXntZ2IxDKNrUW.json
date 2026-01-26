@@ -3384,5 +3384,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jwWLS6N6hePsR9UrL67MQN9MGwY.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.7"
+  },
+  {
+    "id": "gdrive:18PfrDU5xj4KEKii8yzfqJIBO8ocLwnEF",
+    "type": "movie",
+    "name": "Tere Ishk Mein",
+    "poster": "https://image.tmdb.org/t/p/w500/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg",
+    "description": "A psychology student attempts to rehabilitate a volatile young man, before evolving into a doomed romance.",
+    "background": "https://image.tmdb.org/t/p/w1280/s6N5CSXd9KL9npreIeOqVDzYVmb.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.8"
   }
 ]
